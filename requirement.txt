@@ -2,3 +2,4 @@ streamlit==1.18.1
 scikit-learn
 pandas
 plotly
+matplotlib
