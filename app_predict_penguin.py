@@ -7,6 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 import streamlit as st 
 import plotly.graph_objects as px
 
+st.title("My ML Workshop")
 
 tab1, tab2, tab3 = st.tabs(["Penguin Prediction", "Evaluation", "Other"])
 
